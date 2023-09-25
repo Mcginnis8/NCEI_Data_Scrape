@@ -7,13 +7,13 @@ Data Scraping for National Centers for Environmental Information
 
 # NCEI_Scrape.py
 Current Functions:
-  byYearScrape()
+1. byYearScrape()
 
 # firebase.py
 Current Functions:
-  fireBaseInit() - get firebase auth
-  fireBasePushTest(name: str) - test pushing a name to firebase
-  fireBasePushPandasDataFrame(df, dataSetName: str) - push a dataframe to firebase
+1. fireBaseInit() - get firebase auth
+2. fireBasePushTest(name: str) - test pushing a name to firebase
+3. fireBasePushPandasDataFrame(df, dataSetName: str) - push a dataframe to firebase
 
 
 
