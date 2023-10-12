@@ -7,7 +7,7 @@ Data Scraping for National Centers for Environmental Information
 
 # NCEI_Scrape.py
 Current Functions:
-1. byYearScrape() - Scrape data from each year in NCEI database
+1. byYearScrape() - Scrape data yearly from NCEI database
 
 # firebase.py
 Current Functions:
